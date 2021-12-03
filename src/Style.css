@@ -1,0 +1,24 @@
+*{
+    margin: 0;padding: 0;
+}
+body{
+    /* background-color: rgb(247, 207, 213); */
+    background-color: rgb(134, 240, 247);
+}
+.main{
+   
+
+    max-width: 50%;
+    margin: 10% auto;
+
+}
+.main h1{
+    text-align: center;
+    margin: 40px 0;
+}
+.btn1{
+    margin-left: 12px;
+}
+#select{
+    width: 228px;
+}
